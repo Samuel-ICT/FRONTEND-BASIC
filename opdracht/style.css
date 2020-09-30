@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+.photoimg{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 1250px;
+    bottom: 250px;
+}
+.link{
+    position: relative;
+    left: 1100px;
+    color: white;
+}

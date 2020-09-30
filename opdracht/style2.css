@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+.link2{
+    position: relative;
+    top: 300px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
